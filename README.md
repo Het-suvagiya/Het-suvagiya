@@ -29,6 +29,7 @@ Status   : Actively seeking Summer Internship 2026
 ☁️ Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**   
 
 📬 Reach me: hetsuvagiya4@gmail.com  
+
 ---
 
 ## 🛠️ Tech Stack
