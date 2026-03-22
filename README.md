@@ -21,13 +21,14 @@ Focus    : Cloud Infrastructure · Backend Development · Big Data
 Status   : Actively seeking Summer Internship 2026
 ```
 
-- 🌩️ Passionate about **Cloud Infrastructure**, **Distributed Systems**, and **Backend Engineering**
-- 🔭 Currently building real-world projects using **PHP, Python, SQL & Docker**
-- ☁️ Preparing for **AWS Certified Cloud Practitioner (CLF-C02)** — exam target Q2 2026
-- 🐧 Mastering **Linux CLI, Bash scripting & SSH** for cloud server management
-- 🏆 Active on **Codeforces** to sharpen algorithmic problem-solving
-- 📬 Reach me: **hetsuvagiya4@gmail.com**
 
+🎓 Diploma student in **Cloud Computing & Big Data** @ LJ Polytechnic, Ahmedabad  
+
+🔭 Currently building real-world projects using **PHP, Python, SQL & Docker** 
+
+☁️ Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**   
+
+📬 Reach me: hetsuvagiya4@gmail.com  
 ---
 
 ## 🛠️ Tech Stack
