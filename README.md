@@ -86,18 +86,6 @@ Status   : Actively seeking Summer Internship 2026
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Het-suvagiya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Het-suvagiya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"The cloud is not a place, it's a way of doing IT."*
