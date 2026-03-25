@@ -46,17 +46,6 @@
  
 ---
  
-### 🤟 Sign Language Translator (ISL Recognition)
-> Real-time Indian Sign Language recognition using Kinect depth data
- 
-- 📷 Uses Kinect color + depth data for accurate hand tracking
-- 🧮 Nearest-matrix algorithm for gesture matching
-- 🎯 Handles complex backgrounds and varying illumination
- 
-**Tech:** `Python` `Kinect SDK` `Computer Vision` `Matrix Algorithms`
- 
----
- 
 ## 📜 Certifications
  
 - 🐍 **Introduction to Python Programming** — University of Pennsylvania (Coursera)
