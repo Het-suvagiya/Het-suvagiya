@@ -27,8 +27,8 @@
 **Tools**
  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-FF0000?style=flat&logo=oracle&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
  
 ---
  
@@ -61,13 +61,6 @@
  
 - 🐍 **Introduction to Python Programming** — University of Pennsylvania (Coursera)
 - 🗄️ **The Structured Query Language (SQL)** — University of Colorado Boulder (Coursera)
- 
----
- 
-## 📊 GitHub Stats
- 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Het-suvagiya&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Het-suvagiya&layout=compact&theme=tokyonight&hide_border=true)
  
 ---
  
