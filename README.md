@@ -1,7 +1,7 @@
 # Hi there, I'm Het Suvagiya 👋
  
 🎓 Diploma student in **Cloud Computing & Big Data** at LJ Polytechnic, Ahmedabad  
-📈 CGPA: 7.8 → 8.7 → 9.0 — improving every semester!  
+📈 SPI: 7.87 → 8.15 → 9.0 — improving every semester!
 🌱 Currently learning: **Docker · Linux · Cloud fundamentals**  
 💬 Ask me about: **Python · PHP · SQL · Full-stack web apps**  
 📍 Based in Ahmedabad, Gujarat, India  
