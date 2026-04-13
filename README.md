@@ -5,10 +5,15 @@
 </div>
  
 🎓 Diploma student in **Cloud Computing & Big Data** at LJ Polytechnic, Ahmedabad
+
 📈 SPI: 7.87 → 8.15 → 9.0 — improving every semester!
+
 🌱 Currently learning: **Docker · Linux · Bash Scripting · Cloud fundamentals**
+
 💬 Ask me about: **Python · PHP · SQL · Full-stack web apps · Linux CLI**
+
 📍 Based in Ahmedabad, Gujarat, India
+
 📫 Reach me at: hetsuvagiya4@gmail.com
  
 ---
